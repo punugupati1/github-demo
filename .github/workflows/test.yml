@@ -36,3 +36,9 @@ jobs:
           echo test, and deploy your project.
           ls -altr
           pwd
+          cd ./ibm/
+          ls -altr
+          zip -r platform.zip platform
+          ls -altr
+          
+          
